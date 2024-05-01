@@ -39,8 +39,11 @@ Leveraged Tableau for visualization and analysis, creating calculated fields for
 ## Project Outcome 🎯
 
 **💰 Revenue: $34.39M**
+
 **📦 Sales Quantity: 209K**
+
 **📈 Profit Margin: 58.83%**
+
 
 The project delivers comprehensive insights into workforce dynamics, performance metrics, and talent management. The combined use of Excel and Tableau ensures a thorough analysis of employee data, providing valuable information for strategic decision-making and organizational enhancement.
 
