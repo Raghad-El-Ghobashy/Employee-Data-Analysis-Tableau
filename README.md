@@ -44,6 +44,8 @@ The project delivers comprehensive insights into workforce dynamics, performance
 
 ![Employee Data Analysis](https://github.com/Raghad-El-Ghobashy/Employee-Data-Analysis-Tableau/raw/main/Employee%20Data%20Analysis%20Dashboard.png)
 
+---
+
 Feel free to contribute, provide feedback, or use the project as a reference for your own employee data analysis endeavors.
 
 Happy Analyzing! 🚀
