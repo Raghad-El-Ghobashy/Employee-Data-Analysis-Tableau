@@ -38,11 +38,16 @@ Leveraged Tableau for visualization and analysis, creating calculated fields for
 
 ## Project Outcome 🎯
 
-💰 Revenue: $34.39M
 
-📦 Sales Quantity: 209K
+👥 Total Employees: 3000
 
-📈 Profit Margin: 58.83%
+🚷 Terminated Employees: 1467
+
+🎯 Active Employees: 1533
+
+💸 Training Cost: $1,675,886
+
+💯 Termination Rate: 48.90 %
 
 
 The project delivers comprehensive insights into workforce dynamics, performance metrics, and talent management. The combined use of Excel and Tableau ensures a thorough analysis of employee data, providing valuable information for strategic decision-making and organizational enhancement.
